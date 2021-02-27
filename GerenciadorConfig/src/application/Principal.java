@@ -58,7 +58,9 @@ public class Principal extends Application {
 	public static void main(String[] args) {
 		Application.launch(args);
 	}
-
+	
+	
+	// inicio da aplicação FX
 	@Override
 	public void start(Stage primaryStage) {
 		telaInicial(primaryStage);
